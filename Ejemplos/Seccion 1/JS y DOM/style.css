@@ -1,0 +1,42 @@
+/* Esto aplica a todos los botones */
+button {
+	/* Quiero que el botón tenga puntas redondeadas */
+    border-radius: 4px;
+    /* Quiero que no tenga borde */
+    border: none;
+    /* Agrego un margen para que se vean más separados */
+    margin: 4px 2px;
+    /* Y agrego un padding para que se vean más grandes */
+    padding: 20px;
+}
+
+/* Esto solo aplica a los elementos con esta clase */
+.pintado-rojo {
+	background-color: red;
+	color: white;
+}
+.pintado-verde {
+	background-color: green;
+}
+
+/* Esto aplica solo para el elemento con este id */
+#destacado {
+	/* Quiero que el texto esté centrado */
+	text-align: center;
+	/* Quiero el texto en grande */
+	font-size: 30px;
+	/* Y con una fuente distinta a los botones */
+	font-family: "Century Gothic",Verdana,sans-serif;
+}
+#botones {
+	/* Una manera moderna de centrar elementos es con: Flexbox */
+	display: flex;
+	justify-content: center;
+}
+
+/* Esto aplica a todos los elementos en el body */
+body {
+	/* La manera más fácil de centrar el contenido */
+	width: 50%;
+	margin: auto;
+}
