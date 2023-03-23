@@ -1,0 +1,113 @@
+/* General styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #f4f4f4;
+}
+
+label {
+	margin-bottom: 10px;
+	margin-top: 5px;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+
+/* Container styles */
+.container {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.cards-box {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    overflow: auto;
+    width: 100%;
+    height: 500px;
+    padding: 2%;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    background-color: #e0b587;
+    align-items: stretch;
+}
+
+#fun-buttons {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+	
+}
+
+.input-box {
+    display: flex;
+    flex-direction: column;
+}
+
+
+/* Section styles */
+section {
+    margin-bottom: 20px;
+}
+
+/* Card styles */
+.card {
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    max-height: 400px;
+    justify-content: space-between;
+    padding: 10px;
+    margin: 10px;
+    border: 2px solid #2e2b2b;
+    border-radius: 4px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    background-color: #d6d6d6;
+}
+
+.card img {
+    width: 100%;
+    height: 250px;
+    margin-bottom: 4px;
+}
+
+
+.card-title {
+    font-size: 16px;
+    font-weight: 800;
+    border-bottom: 2px dashed #2e2b2b ;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+
+ .card-description {
+    font-size: 14px;
+    padding-top: 8px;
+}
+
+
+/* Input styles */
+input {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    font-size: 14px;
+    margin-bottom: 5px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    outline: none;
+}
+
+/*---------------------------TRABAJEN AQUÍ-------------------------------*/
+/* TODO: añadir CSS para el heading */
+
+/* TODO: añadir efectos de focus y/o hover a input */
+
+/* TODO: añadir estilo al botón */
+
+
+
