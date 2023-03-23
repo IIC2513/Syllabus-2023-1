@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="es">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Cartas de Gatito</title>
+        <link rel="stylesheet" href="styles.css">
+    </head>
+
+    <body>
+        <h1 class="page-heading"> ¡Bienvenido a la página de gatitos! </h1>
+        <div class="container">
+
+            <!-- Sección 1: Inputs y botón para aceptar imágenes -->
+            <section>
+
+                <div class="input-box">
+                    <label for="title-input">Título de la tarjeta:</label>
+                    <input type="text" id="title-input" placeholder="Aquí ingresar el título de la tarjeta">
+                    <label for="image-input">Archivo de la Imagen:</label>
+                    <input type="file" id="image-input" accept="image/png, image/jpeg">
+                    <label for="description-input">Descripción de la tarjeta:</label>
+                    <input type="text" id="description-input" placeholder="Aquí ingresar la descripción del gatito">
+                    <button id="add-button">Añadir gatito</button>
+                </div>
+            </section>
+
+            <!-- Sección 2: Cartas de gatito -->
+            <section class="cards-section">
+                <div class="cards-box">
+
+                    <!-- Aquí se irán añadiendo las cartas de forma dinámica según los inputs -->
+
+                </div>
+            </section>
+
+
+            <!-- Sección 3: Algunos botones divertidos -->
+            <section id="fun-buttons">
+                <button id="hide-button">Esconder/Mostrar Tarjetas</button>
+                <button id="color-button">Cambiar color de las tarjetas</button>
+                <button id="background-button">Cambiar color del fondo</button>
+                <!-- Aquí se irán añadiendo las cartas de forma dinámica según los inputs -->
+            </section>
+
+
+        </div>
+
+        <script src="script.js"></script>
+    </body>
+
+</html>
