@@ -3,4 +3,4 @@
 ## Set Up 
 | Nombre        | Video         | Otro material|
 | ------------- | ------------- | ------------- |
-| Guía Set Up Inicial  | -  | [guía]() |
+| Setup Inicial  | -  | [guía]() |
