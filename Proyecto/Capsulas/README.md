@@ -9,6 +9,6 @@
 ## Front
 | Nombre        | Video         | Otro material|
 | ------------- | ------------- | ------------- |
-| Cápsula 2 Parte 1 - HTML y CSS | [video](https://youtu.be/ebGNBb6ZN3U)  | [tags](https://www.w3schools.com/tags/) |
-| Cápsula 2 Parte 2 - HTML y CSS | [video](https://youtu.be/qzBV24gJJuY)  | [flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/), [grid](https://css-tricks.com/snippets/css/complete-guide-grid/), [media queries](https://www.w3schools.com/css/css_rwd_mediaqueries.asp) |
+| Cápsula 2 Parte 1 - HTML y CSS | [video](https://youtu.be/ebGNBb6ZN3U)  | [código](https://github.com/IIC2513/guess-who/pull/1), [tags](https://www.w3schools.com/tags/) |
+| Cápsula 2 Parte 2 - HTML y CSS | [video](https://youtu.be/qzBV24gJJuY)  | [código](https://github.com/IIC2513/guess-who/pull/1), [flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/), [grid](https://css-tricks.com/snippets/css/complete-guide-grid/), [media queries](https://www.w3schools.com/css/css_rwd_mediaqueries.asp) |
 
