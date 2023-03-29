@@ -110,6 +110,13 @@ Para más información puedes revisar en GitHub [Node Version Manager](https://g
 
 <div id='id6' />
 
+## 🧶 Yarn
+Yarn es un [Administrador de dependencias](https://classic.yarnpkg.com/en/). Nos permitirá instalar y dejar fijos los módulos que necesitará tu proyecto para crearse, y también los módulos que ustedes instalen. Piensa en los módulos como las librerias de Python.
+
+```bash
+npm install --global yarn
+```
+
 ## 💻 **PostgreSQL**
 Para almacenar los datos generados en nuestra aplicación web, tales como información de usuarios (nombre de usuario, descripción, etc) necesitamos una base de datos.
 
