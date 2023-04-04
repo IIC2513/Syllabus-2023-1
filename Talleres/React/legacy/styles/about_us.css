@@ -1,0 +1,147 @@
+
+/* BASIC */
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    color: white
+}
+
+body {
+    background-color: #191414;
+}
+
+/* UTILITY */
+
+.name {
+    color: #1DB954
+}
+
+body {
+    font-family: Poppins;
+  }
+
+/* NAVBAR */
+header {
+    background: #191414;
+    top: 0;
+    width: 100%;
+    text-align: center;
+    border-bottom: 1px solid #2e2c2c ;
+}
+
+.navbar {
+    padding: 10px 50px;
+    max-width: 100%;
+    max-height: 13vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo-display {
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    gap: 5px
+}
+
+.logo-display:hover {
+    fill: white;
+    color: white;
+}
+
+.logo-image {
+    width: 3vw;
+    height: auto;
+}
+
+.title {
+    font-weight: 600;
+    font-size: 1.7vw;
+}
+
+.navbar-links-container {
+    display: flex;
+    list-style: none;
+    gap: 30px;
+}
+
+.navbar-link {
+    font-size: 1vw;
+    text-decoration: none;
+    cursor: pointer;
+    transition: color 0.5s ease-in;
+}
+
+.navbar-element:hover > .navbar-link  {
+    color: #1DB954
+}
+
+
+/* LANDING PAGE */
+
+main {
+    width: 100%;
+    height: 87.5vh;
+}
+
+.bg-container {
+    position: absolute;
+    width: 100%;
+    height: 87.5vh;
+    background: url('../assets/bg-image.jpeg') no-repeat center center fixed;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    z-index: -2;
+    opacity: 0.25;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.5vw;
+    text-align: justify;
+    gap: 30px;
+}
+
+.content > p {
+    width: 50%;
+}
+
+/* FOOTER */
+.footer {
+    background-color: #191414;
+    border-top: 1px solid #2e2c2c ;
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+    padding: 10px 0px;
+    text-align: center;
+}
+
+@media screen and (max-width: 850px) {
+
+    .title {
+        font-size: 15px;
+    }
+    .logo-image {
+        width: 27px;
+    }
+
+    .navbar-link {
+        font-size: 9px;
+    }
+
+    .bg-container {
+        height: 100.5vh;
+    }
+
+    .content {
+        font-size: 13px;
+    }
+}
