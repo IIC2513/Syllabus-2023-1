@@ -1,0 +1,2130 @@
+{
+  "items": [
+    {
+      "added_at": "2022-04-12T07:43:18Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/machadoamalia"
+        },
+        "href": "https://api.spotify.com/v1/users/machadoamalia",
+        "id": "machadoamalia",
+        "type": "user",
+        "uri": "spotify:user:machadoamalia"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
+        "album": {
+          "album_group": "album",
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+              },
+              "href": "https://api.spotify.com/v1/artists/26dSoYclwsYLMAKD3tpOr4",
+              "id": "26dSoYclwsYLMAKD3tpOr4",
+              "name": "Britney Spears",
+              "type": "artist",
+              "uri": "spotify:artist:26dSoYclwsYLMAKD3tpOr4"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/1ePkYcH5ZQCb1b4tQeiEDj"
+          },
+          "href": "https://api.spotify.com/v1/albums/1ePkYcH5ZQCb1b4tQeiEDj",
+          "id": "1ePkYcH5ZQCb1b4tQeiEDj",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273ca10fae7d292c52f7e8b11ca",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02ca10fae7d292c52f7e8b11ca",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851ca10fae7d292c52f7e8b11ca",
+              "width": 64
+            }
+          ],
+          "is_playable": true,
+          "name": "Blackout",
+          "release_date": "2007-10-25",
+          "release_date_precision": "day",
+          "total_tracks": 15,
+          "type": "album",
+          "uri": "spotify:album:1ePkYcH5ZQCb1b4tQeiEDj"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+            },
+            "href": "https://api.spotify.com/v1/artists/26dSoYclwsYLMAKD3tpOr4",
+            "id": "26dSoYclwsYLMAKD3tpOr4",
+            "name": "Britney Spears",
+            "type": "artist",
+            "uri": "spotify:artist:26dSoYclwsYLMAKD3tpOr4"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 251240,
+        "episode": false,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USJI10700609"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6ic8OlLUNEATToEFU3xmaH"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6ic8OlLUNEATToEFU3xmaH",
+        "id": "6ic8OlLUNEATToEFU3xmaH",
+        "is_local": false,
+        "name": "Gimme More",
+        "popularity": 79,
+        "preview_url": "https://p.scdn.co/mp3-preview/cf83b67397b97a1634547c6194086c1102e89b36?cid=f647b8cb59df49aa85dd3153cb98d08b",
+        "track": true,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6ic8OlLUNEATToEFU3xmaH"
+      },
+      "video_thumbnail": {
+        "url": null
+      }
+    },
+    {
+      "added_at": "2022-04-12T07:43:21Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/machadoamalia"
+        },
+        "href": "https://api.spotify.com/v1/users/machadoamalia",
+        "id": "machadoamalia",
+        "type": "user",
+        "uri": "spotify:user:machadoamalia"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
+        "album": {
+          "album_group": "album",
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
+              },
+              "href": "https://api.spotify.com/v1/artists/2jw70GZXlAI8QzWeY2bgRc",
+              "id": "2jw70GZXlAI8QzWeY2bgRc",
+              "name": "Nelly Furtado",
+              "type": "artist",
+              "uri": "spotify:artist:2jw70GZXlAI8QzWeY2bgRc"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT"
+          },
+          "href": "https://api.spotify.com/v1/albums/2yboV2QBcVGEhcRlYuPpDT",
+          "id": "2yboV2QBcVGEhcRlYuPpDT",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273a6f439c8957170652f9410e2",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02a6f439c8957170652f9410e2",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851a6f439c8957170652f9410e2",
+              "width": 64
+            }
+          ],
+          "is_playable": true,
+          "name": "Loose",
+          "release_date": "2006-01-01",
+          "release_date_precision": "day",
+          "total_tracks": 17,
+          "type": "album",
+          "uri": "spotify:album:2yboV2QBcVGEhcRlYuPpDT"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
+            },
+            "href": "https://api.spotify.com/v1/artists/2jw70GZXlAI8QzWeY2bgRc",
+            "id": "2jw70GZXlAI8QzWeY2bgRc",
+            "name": "Nelly Furtado",
+            "type": "artist",
+            "uri": "spotify:artist:2jw70GZXlAI8QzWeY2bgRc"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 258893,
+        "episode": false,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USUM70601449"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4wH4dJgrsxONID6KS2tDQM"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4wH4dJgrsxONID6KS2tDQM",
+        "id": "4wH4dJgrsxONID6KS2tDQM",
+        "is_local": false,
+        "name": "Maneater",
+        "popularity": 80,
+        "preview_url": null,
+        "track": true,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:4wH4dJgrsxONID6KS2tDQM"
+      },
+      "video_thumbnail": {
+        "url": null
+      }
+    },
+    {
+      "added_at": "2022-04-12T07:43:24Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/machadoamalia"
+        },
+        "href": "https://api.spotify.com/v1/users/machadoamalia",
+        "id": "machadoamalia",
+        "type": "user",
+        "uri": "spotify:user:machadoamalia"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
+        "album": {
+          "album_group": "album",
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+              },
+              "href": "https://api.spotify.com/v1/artists/26dSoYclwsYLMAKD3tpOr4",
+              "id": "26dSoYclwsYLMAKD3tpOr4",
+              "name": "Britney Spears",
+              "type": "artist",
+              "uri": "spotify:artist:26dSoYclwsYLMAKD3tpOr4"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/2tve5DGwub1TtbX1khPX5j"
+          },
+          "href": "https://api.spotify.com/v1/albums/2tve5DGwub1TtbX1khPX5j",
+          "id": "2tve5DGwub1TtbX1khPX5j",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b27354c6edd554935d73e159e199",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e0254c6edd554935d73e159e199",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d0000485154c6edd554935d73e159e199",
+              "width": 64
+            }
+          ],
+          "is_playable": true,
+          "name": "Circus (Deluxe Version)",
+          "release_date": "2008-12-02",
+          "release_date_precision": "day",
+          "total_tracks": 15,
+          "type": "album",
+          "uri": "spotify:album:2tve5DGwub1TtbX1khPX5j"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+            },
+            "href": "https://api.spotify.com/v1/artists/26dSoYclwsYLMAKD3tpOr4",
+            "id": "26dSoYclwsYLMAKD3tpOr4",
+            "name": "Britney Spears",
+            "type": "artist",
+            "uri": "spotify:artist:26dSoYclwsYLMAKD3tpOr4"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 224400,
+        "episode": false,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USJI10800838"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4fixebDZAVToLbUCuEloa2"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4fixebDZAVToLbUCuEloa2",
+        "id": "4fixebDZAVToLbUCuEloa2",
+        "is_local": false,
+        "name": "Womanizer",
+        "popularity": 76,
+        "preview_url": "https://p.scdn.co/mp3-preview/b6b0fb78b1205317fc8170a1ba6040f5cc57ec85?cid=f647b8cb59df49aa85dd3153cb98d08b",
+        "track": true,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4fixebDZAVToLbUCuEloa2"
+      },
+      "video_thumbnail": {
+        "url": null
+      }
+    },
+    {
+      "added_at": "2022-04-12T07:43:28Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/machadoamalia"
+        },
+        "href": "https://api.spotify.com/v1/users/machadoamalia",
+        "id": "machadoamalia",
+        "type": "user",
+        "uri": "spotify:user:machadoamalia"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
+        "album": {
+          "album_group": "album",
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
+              },
+              "href": "https://api.spotify.com/v1/artists/2jw70GZXlAI8QzWeY2bgRc",
+              "id": "2jw70GZXlAI8QzWeY2bgRc",
+              "name": "Nelly Furtado",
+              "type": "artist",
+              "uri": "spotify:artist:2jw70GZXlAI8QzWeY2bgRc"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT"
+          },
+          "href": "https://api.spotify.com/v1/albums/2yboV2QBcVGEhcRlYuPpDT",
+          "id": "2yboV2QBcVGEhcRlYuPpDT",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273a6f439c8957170652f9410e2",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02a6f439c8957170652f9410e2",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851a6f439c8957170652f9410e2",
+              "width": 64
+            }
+          ],
+          "is_playable": true,
+          "name": "Loose",
+          "release_date": "2006-01-01",
+          "release_date_precision": "day",
+          "total_tracks": 17,
+          "type": "album",
+          "uri": "spotify:album:2yboV2QBcVGEhcRlYuPpDT"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
+            },
+            "href": "https://api.spotify.com/v1/artists/2jw70GZXlAI8QzWeY2bgRc",
+            "id": "2jw70GZXlAI8QzWeY2bgRc",
+            "name": "Nelly Furtado",
+            "type": "artist",
+            "uri": "spotify:artist:2jw70GZXlAI8QzWeY2bgRc"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
+            },
+            "href": "https://api.spotify.com/v1/artists/5Y5TRrQiqgUO4S36tzjIRZ",
+            "id": "5Y5TRrQiqgUO4S36tzjIRZ",
+            "name": "Timbaland",
+            "type": "artist",
+            "uri": "spotify:artist:5Y5TRrQiqgUO4S36tzjIRZ"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 242293,
+        "episode": false,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USUM70603473"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2gam98EZKrF9XuOkU13ApN"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2gam98EZKrF9XuOkU13ApN",
+        "id": "2gam98EZKrF9XuOkU13ApN",
+        "is_local": false,
+        "name": "Promiscuous",
+        "popularity": 83,
+        "preview_url": null,
+        "track": true,
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:2gam98EZKrF9XuOkU13ApN"
+      },
+      "video_thumbnail": {
+        "url": null
+      }
+    },
+    {
+      "added_at": "2022-04-12T07:43:30Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/machadoamalia"
+        },
+        "href": "https://api.spotify.com/v1/users/machadoamalia",
+        "id": "machadoamalia",
+        "type": "user",
+        "uri": "spotify:user:machadoamalia"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
+        "album": {
+          "album_group": "album",
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+              },
+              "href": "https://api.spotify.com/v1/artists/5pKCCKE2ajJHZ9KAiaK11H",
+              "id": "5pKCCKE2ajJHZ9KAiaK11H",
+              "name": "Rihanna",
+              "type": "artist",
+              "uri": "spotify:artist:5pKCCKE2ajJHZ9KAiaK11H"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/2JdjS6jjOml7nt7Yjo0nnh"
+          },
+          "href": "https://api.spotify.com/v1/albums/2JdjS6jjOml7nt7Yjo0nnh",
+          "id": "2JdjS6jjOml7nt7Yjo0nnh",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273d744a51e193d52170070062b",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02d744a51e193d52170070062b",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851d744a51e193d52170070062b",
+              "width": 64
+            }
+          ],
+          "is_playable": true,
+          "name": "A Girl Like Me",
+          "release_date": "2006-04-10",
+          "release_date_precision": "day",
+          "total_tracks": 13,
+          "type": "album",
+          "uri": "spotify:album:2JdjS6jjOml7nt7Yjo0nnh"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+            },
+            "href": "https://api.spotify.com/v1/artists/5pKCCKE2ajJHZ9KAiaK11H",
+            "id": "5pKCCKE2ajJHZ9KAiaK11H",
+            "name": "Rihanna",
+            "type": "artist",
+            "uri": "spotify:artist:5pKCCKE2ajJHZ9KAiaK11H"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 238920,
+        "episode": false,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USUM70507379"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/30cSNer6TV8x2utjULVeQ5"
+        },
+        "href": "https://api.spotify.com/v1/tracks/30cSNer6TV8x2utjULVeQ5",
+        "id": "30cSNer6TV8x2utjULVeQ5",
+        "is_local": false,
+        "name": "SOS",
+        "popularity": 77,
+        "preview_url": null,
+        "track": true,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:30cSNer6TV8x2utjULVeQ5"
+      },
+      "video_thumbnail": {
+        "url": null
+      }
+    },
+    {
+      "added_at": "2022-04-12T07:43:31Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/machadoamalia"
+        },
+        "href": "https://api.spotify.com/v1/users/machadoamalia",
+        "id": "machadoamalia",
+        "type": "user",
+        "uri": "spotify:user:machadoamalia"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
+        "album": {
+          "album_group": "album",
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
+              },
+              "href": "https://api.spotify.com/v1/artists/5Y5TRrQiqgUO4S36tzjIRZ",
+              "id": "5Y5TRrQiqgUO4S36tzjIRZ",
+              "name": "Timbaland",
+              "type": "artist",
+              "uri": "spotify:artist:5Y5TRrQiqgUO4S36tzjIRZ"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/4BxB8U8QgpR4UCvJ0moj8Z"
+          },
+          "href": "https://api.spotify.com/v1/albums/4BxB8U8QgpR4UCvJ0moj8Z",
+          "id": "4BxB8U8QgpR4UCvJ0moj8Z",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2734ed674ab91bdc566534f9285",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e024ed674ab91bdc566534f9285",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d000048514ed674ab91bdc566534f9285",
+              "width": 64
+            }
+          ],
+          "is_playable": true,
+          "name": "Shock Value",
+          "release_date": "2007-01-01",
+          "release_date_precision": "day",
+          "total_tracks": 17,
+          "type": "album",
+          "uri": "spotify:album:4BxB8U8QgpR4UCvJ0moj8Z"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
+            },
+            "href": "https://api.spotify.com/v1/artists/5Y5TRrQiqgUO4S36tzjIRZ",
+            "id": "5Y5TRrQiqgUO4S36tzjIRZ",
+            "name": "Timbaland",
+            "type": "artist",
+            "uri": "spotify:artist:5Y5TRrQiqgUO4S36tzjIRZ"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/63wjoROpeh5f11Qm93UiJ1"
+            },
+            "href": "https://api.spotify.com/v1/artists/63wjoROpeh5f11Qm93UiJ1",
+            "id": "63wjoROpeh5f11Qm93UiJ1",
+            "name": "Keri Hilson",
+            "type": "artist",
+            "uri": "spotify:artist:63wjoROpeh5f11Qm93UiJ1"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4TLCPR1sMYoNU1jA7O4uww"
+            },
+            "href": "https://api.spotify.com/v1/artists/4TLCPR1sMYoNU1jA7O4uww",
+            "id": "4TLCPR1sMYoNU1jA7O4uww",
+            "name": "D.O.E.",
+            "type": "artist",
+            "uri": "spotify:artist:4TLCPR1sMYoNU1jA7O4uww"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 179120,
+        "episode": false,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USUM70722806"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2bLqfJjuC5syrsgDsZfGmn"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2bLqfJjuC5syrsgDsZfGmn",
+        "id": "2bLqfJjuC5syrsgDsZfGmn",
+        "is_local": false,
+        "name": "The Way I Are",
+        "popularity": 82,
+        "preview_url": null,
+        "track": true,
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:2bLqfJjuC5syrsgDsZfGmn"
+      },
+      "video_thumbnail": {
+        "url": null
+      }
+    },
+    {
+      "added_at": "2022-04-12T07:43:32Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/machadoamalia"
+        },
+        "href": "https://api.spotify.com/v1/users/machadoamalia",
+        "id": "machadoamalia",
+        "type": "user",
+        "uri": "spotify:user:machadoamalia"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
+        "album": {
+          "album_group": "album",
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA"
+              },
+              "href": "https://api.spotify.com/v1/artists/5P2rwRBgIN450RaJxdjYdA",
+              "id": "5P2rwRBgIN450RaJxdjYdA",
+              "name": "Kardinal Offishall",
+              "type": "artist",
+              "uri": "spotify:artist:5P2rwRBgIN450RaJxdjYdA"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/4mvT7q9PuuBWZcVyUnZP8e"
+          },
+          "href": "https://api.spotify.com/v1/albums/4mvT7q9PuuBWZcVyUnZP8e",
+          "id": "4mvT7q9PuuBWZcVyUnZP8e",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273cedc24abc2e757d13b386d1e",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02cedc24abc2e757d13b386d1e",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851cedc24abc2e757d13b386d1e",
+              "width": 64
+            }
+          ],
+          "is_playable": true,
+          "name": "Not 4 Sale",
+          "release_date": "2008-01-01",
+          "release_date_precision": "day",
+          "total_tracks": 15,
+          "type": "album",
+          "uri": "spotify:album:4mvT7q9PuuBWZcVyUnZP8e"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA"
+            },
+            "href": "https://api.spotify.com/v1/artists/5P2rwRBgIN450RaJxdjYdA",
+            "id": "5P2rwRBgIN450RaJxdjYdA",
+            "name": "Kardinal Offishall",
+            "type": "artist",
+            "uri": "spotify:artist:5P2rwRBgIN450RaJxdjYdA"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+            },
+            "href": "https://api.spotify.com/v1/artists/0z4gvV4rjIZ9wHck67ucSV",
+            "id": "0z4gvV4rjIZ9wHck67ucSV",
+            "name": "Akon",
+            "type": "artist",
+            "uri": "spotify:artist:0z4gvV4rjIZ9wHck67ucSV"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 246053,
+        "episode": false,
+        "explicit": true,
+        "external_ids": {
+          "isrc": "USUM70830921"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4NOZ35Dhucr6UlVyLOtktd"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4NOZ35Dhucr6UlVyLOtktd",
+        "id": "4NOZ35Dhucr6UlVyLOtktd",
+        "is_local": false,
+        "name": "Dangerous",
+        "popularity": 73,
+        "preview_url": null,
+        "track": true,
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:4NOZ35Dhucr6UlVyLOtktd"
+      },
+      "video_thumbnail": {
+        "url": null
+      }
+    },
+    {
+      "added_at": "2022-04-12T07:43:34Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/machadoamalia"
+        },
+        "href": "https://api.spotify.com/v1/users/machadoamalia",
+        "id": "machadoamalia",
+        "type": "user",
+        "uri": "spotify:user:machadoamalia"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
+        "album": {
+          "album_group": "album",
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
+              },
+              "href": "https://api.spotify.com/v1/artists/5Y5TRrQiqgUO4S36tzjIRZ",
+              "id": "5Y5TRrQiqgUO4S36tzjIRZ",
+              "name": "Timbaland",
+              "type": "artist",
+              "uri": "spotify:artist:5Y5TRrQiqgUO4S36tzjIRZ"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/0V7TZQmJBgI81M9Z7GWxCI"
+          },
+          "href": "https://api.spotify.com/v1/albums/0V7TZQmJBgI81M9Z7GWxCI",
+          "id": "0V7TZQmJBgI81M9Z7GWxCI",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273755a9f1e89ad8e8cf91d4956",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02755a9f1e89ad8e8cf91d4956",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851755a9f1e89ad8e8cf91d4956",
+              "width": 64
+            }
+          ],
+          "is_playable": true,
+          "name": "Shock Value",
+          "release_date": "2007-04-02",
+          "release_date_precision": "day",
+          "total_tracks": 17,
+          "type": "album",
+          "uri": "spotify:album:0V7TZQmJBgI81M9Z7GWxCI"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
+            },
+            "href": "https://api.spotify.com/v1/artists/5Y5TRrQiqgUO4S36tzjIRZ",
+            "id": "5Y5TRrQiqgUO4S36tzjIRZ",
+            "name": "Timbaland",
+            "type": "artist",
+            "uri": "spotify:artist:5Y5TRrQiqgUO4S36tzjIRZ"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+            },
+            "href": "https://api.spotify.com/v1/artists/31TPClRtHm23RisEBtV3X7",
+            "id": "31TPClRtHm23RisEBtV3X7",
+            "name": "Justin Timberlake",
+            "type": "artist",
+            "uri": "spotify:artist:31TPClRtHm23RisEBtV3X7"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
+            },
+            "href": "https://api.spotify.com/v1/artists/2jw70GZXlAI8QzWeY2bgRc",
+            "id": "2jw70GZXlAI8QzWeY2bgRc",
+            "name": "Nelly Furtado",
+            "type": "artist",
+            "uri": "spotify:artist:2jw70GZXlAI8QzWeY2bgRc"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 234026,
+        "episode": false,
+        "explicit": true,
+        "external_ids": {
+          "isrc": "USUM70700995"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0wbDgMuAoy7O7pL3a69uZx"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0wbDgMuAoy7O7pL3a69uZx",
+        "id": "0wbDgMuAoy7O7pL3a69uZx",
+        "is_local": false,
+        "name": "Give It To Me",
+        "popularity": 79,
+        "preview_url": null,
+        "track": true,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:0wbDgMuAoy7O7pL3a69uZx"
+      },
+      "video_thumbnail": {
+        "url": null
+      }
+    },
+    {
+      "added_at": "2023-01-23T15:42:09Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/machadoamalia"
+        },
+        "href": "https://api.spotify.com/v1/users/machadoamalia",
+        "id": "machadoamalia",
+        "type": "user",
+        "uri": "spotify:user:machadoamalia"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
+        "album": {
+          "album_group": "album",
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+              },
+              "href": "https://api.spotify.com/v1/artists/31TPClRtHm23RisEBtV3X7",
+              "id": "31TPClRtHm23RisEBtV3X7",
+              "name": "Justin Timberlake",
+              "type": "artist",
+              "uri": "spotify:artist:31TPClRtHm23RisEBtV3X7"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/2scB1uhcCI1TSf6b9TCZK3"
+          },
+          "href": "https://api.spotify.com/v1/albums/2scB1uhcCI1TSf6b9TCZK3",
+          "id": "2scB1uhcCI1TSf6b9TCZK3",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273c6ba98fd3f3b396a6c6f7091",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02c6ba98fd3f3b396a6c6f7091",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851c6ba98fd3f3b396a6c6f7091",
+              "width": 64
+            }
+          ],
+          "is_playable": true,
+          "name": "FutureSex/LoveSounds",
+          "release_date": "2006-09-12",
+          "release_date_precision": "day",
+          "total_tracks": 12,
+          "type": "album",
+          "uri": "spotify:album:2scB1uhcCI1TSf6b9TCZK3"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+            },
+            "href": "https://api.spotify.com/v1/artists/31TPClRtHm23RisEBtV3X7",
+            "id": "31TPClRtHm23RisEBtV3X7",
+            "name": "Justin Timberlake",
+            "type": "artist",
+            "uri": "spotify:artist:31TPClRtHm23RisEBtV3X7"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 252973,
+        "episode": false,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USJI10600503"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1MBM7CyZbwJpVbbZJnHHRg"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1MBM7CyZbwJpVbbZJnHHRg",
+        "id": "1MBM7CyZbwJpVbbZJnHHRg",
+        "is_local": false,
+        "name": "Summer Love",
+        "popularity": 67,
+        "preview_url": "https://p.scdn.co/mp3-preview/f88f807b95727dac05ae905e66f13cdf3abe8f29?cid=f647b8cb59df49aa85dd3153cb98d08b",
+        "track": true,
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:1MBM7CyZbwJpVbbZJnHHRg"
+      },
+      "video_thumbnail": {
+        "url": null
+      }
+    },
+    {
+      "added_at": "2022-04-12T07:43:41Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/machadoamalia"
+        },
+        "href": "https://api.spotify.com/v1/users/machadoamalia",
+        "id": "machadoamalia",
+        "type": "user",
+        "uri": "spotify:user:machadoamalia"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
+        "album": {
+          "album_group": "album",
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ"
+              },
+              "href": "https://api.spotify.com/v1/artists/6wPhSqRtPu1UhRCDX5yaDJ",
+              "id": "6wPhSqRtPu1UhRCDX5yaDJ",
+              "name": "The Pussycat Dolls",
+              "type": "artist",
+              "uri": "spotify:artist:6wPhSqRtPu1UhRCDX5yaDJ"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/53zV9rZ5yfWgigsmuJtYpG"
+          },
+          "href": "https://api.spotify.com/v1/albums/53zV9rZ5yfWgigsmuJtYpG",
+          "id": "53zV9rZ5yfWgigsmuJtYpG",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2735d9edaa7b844f929a5b2973e",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e025d9edaa7b844f929a5b2973e",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d000048515d9edaa7b844f929a5b2973e",
+              "width": 64
+            }
+          ],
+          "is_playable": true,
+          "name": "PCD",
+          "release_date": "2005-01-01",
+          "release_date_precision": "day",
+          "total_tracks": 14,
+          "type": "album",
+          "uri": "spotify:album:53zV9rZ5yfWgigsmuJtYpG"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ"
+            },
+            "href": "https://api.spotify.com/v1/artists/6wPhSqRtPu1UhRCDX5yaDJ",
+            "id": "6wPhSqRtPu1UhRCDX5yaDJ",
+            "name": "The Pussycat Dolls",
+            "type": "artist",
+            "uri": "spotify:artist:6wPhSqRtPu1UhRCDX5yaDJ"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+            },
+            "href": "https://api.spotify.com/v1/artists/1YfEcTuGvBQ8xSD1f53UnK",
+            "id": "1YfEcTuGvBQ8xSD1f53UnK",
+            "name": "Busta Rhymes",
+            "type": "artist",
+            "uri": "spotify:artist:1YfEcTuGvBQ8xSD1f53UnK"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 272080,
+        "episode": false,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USUM70503191"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0BxfFnk0YzONqvmrkO0QrB"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0BxfFnk0YzONqvmrkO0QrB",
+        "id": "0BxfFnk0YzONqvmrkO0QrB",
+        "is_local": false,
+        "name": "Don't Cha",
+        "popularity": 72,
+        "preview_url": null,
+        "track": true,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0BxfFnk0YzONqvmrkO0QrB"
+      },
+      "video_thumbnail": {
+        "url": null
+      }
+    },
+    {
+      "added_at": "2022-04-12T07:43:46Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/machadoamalia"
+        },
+        "href": "https://api.spotify.com/v1/users/machadoamalia",
+        "id": "machadoamalia",
+        "type": "user",
+        "uri": "spotify:user:machadoamalia"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
+        "album": {
+          "album_group": "album",
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+              },
+              "href": "https://api.spotify.com/v1/artists/5pKCCKE2ajJHZ9KAiaK11H",
+              "id": "5pKCCKE2ajJHZ9KAiaK11H",
+              "name": "Rihanna",
+              "type": "artist",
+              "uri": "spotify:artist:5pKCCKE2ajJHZ9KAiaK11H"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/5QG3tjE5L9F6O2vCAPph38"
+          },
+          "href": "https://api.spotify.com/v1/albums/5QG3tjE5L9F6O2vCAPph38",
+          "id": "5QG3tjE5L9F6O2vCAPph38",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b27331548865f7c729290b96c794",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e0231548865f7c729290b96c794",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d0000485131548865f7c729290b96c794",
+              "width": 64
+            }
+          ],
+          "is_playable": true,
+          "name": "Loud (Japan Version)",
+          "release_date": "2010-01-01",
+          "release_date_precision": "day",
+          "total_tracks": 13,
+          "type": "album",
+          "uri": "spotify:album:5QG3tjE5L9F6O2vCAPph38"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+            },
+            "href": "https://api.spotify.com/v1/artists/5pKCCKE2ajJHZ9KAiaK11H",
+            "id": "5pKCCKE2ajJHZ9KAiaK11H",
+            "name": "Rihanna",
+            "type": "artist",
+            "uri": "spotify:artist:5pKCCKE2ajJHZ9KAiaK11H"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 243600,
+        "episode": false,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USUM71026591"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7ySUcLPVX7KudhnmNcgY2D"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7ySUcLPVX7KudhnmNcgY2D",
+        "id": "7ySUcLPVX7KudhnmNcgY2D",
+        "is_local": false,
+        "name": "S&M",
+        "popularity": 81,
+        "preview_url": null,
+        "track": true,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7ySUcLPVX7KudhnmNcgY2D"
+      },
+      "video_thumbnail": {
+        "url": null
+      }
+    },
+    {
+      "added_at": "2022-04-12T07:43:50Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/machadoamalia"
+        },
+        "href": "https://api.spotify.com/v1/users/machadoamalia",
+        "id": "machadoamalia",
+        "type": "user",
+        "uri": "spotify:user:machadoamalia"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
+        "album": {
+          "album_group": "album",
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+              },
+              "href": "https://api.spotify.com/v1/artists/1HY2Jd0NmPuamShAr6KMms",
+              "id": "1HY2Jd0NmPuamShAr6KMms",
+              "name": "Lady Gaga",
+              "type": "artist",
+              "uri": "spotify:artist:1HY2Jd0NmPuamShAr6KMms"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/1qwlxZTNLe1jq3b0iidlue"
+          },
+          "href": "https://api.spotify.com/v1/albums/1qwlxZTNLe1jq3b0iidlue",
+          "id": "1qwlxZTNLe1jq3b0iidlue",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273e691217483df8798445c82e2",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02e691217483df8798445c82e2",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851e691217483df8798445c82e2",
+              "width": 64
+            }
+          ],
+          "is_playable": true,
+          "name": "The Fame",
+          "release_date": "2008-01-01",
+          "release_date_precision": "day",
+          "total_tracks": 15,
+          "type": "album",
+          "uri": "spotify:album:1qwlxZTNLe1jq3b0iidlue"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+            },
+            "href": "https://api.spotify.com/v1/artists/1HY2Jd0NmPuamShAr6KMms",
+            "id": "1HY2Jd0NmPuamShAr6KMms",
+            "name": "Lady Gaga",
+            "type": "artist",
+            "uri": "spotify:artist:1HY2Jd0NmPuamShAr6KMms"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 216333,
+        "episode": false,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USUM70824404"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0eH2eHURaXUP15D8gQlfjx"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0eH2eHURaXUP15D8gQlfjx",
+        "id": "0eH2eHURaXUP15D8gQlfjx",
+        "is_local": false,
+        "name": "LoveGame",
+        "popularity": 73,
+        "preview_url": null,
+        "track": true,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:0eH2eHURaXUP15D8gQlfjx"
+      },
+      "video_thumbnail": {
+        "url": null
+      }
+    },
+    {
+      "added_at": "2022-04-12T07:43:52Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/machadoamalia"
+        },
+        "href": "https://api.spotify.com/v1/users/machadoamalia",
+        "id": "machadoamalia",
+        "type": "user",
+        "uri": "spotify:user:machadoamalia"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
+        "album": {
+          "album_group": "album",
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
+              },
+              "href": "https://api.spotify.com/v1/artists/2jw70GZXlAI8QzWeY2bgRc",
+              "id": "2jw70GZXlAI8QzWeY2bgRc",
+              "name": "Nelly Furtado",
+              "type": "artist",
+              "uri": "spotify:artist:2jw70GZXlAI8QzWeY2bgRc"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT"
+          },
+          "href": "https://api.spotify.com/v1/albums/2yboV2QBcVGEhcRlYuPpDT",
+          "id": "2yboV2QBcVGEhcRlYuPpDT",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273a6f439c8957170652f9410e2",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02a6f439c8957170652f9410e2",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851a6f439c8957170652f9410e2",
+              "width": 64
+            }
+          ],
+          "is_playable": true,
+          "name": "Loose",
+          "release_date": "2006-01-01",
+          "release_date_precision": "day",
+          "total_tracks": 17,
+          "type": "album",
+          "uri": "spotify:album:2yboV2QBcVGEhcRlYuPpDT"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
+            },
+            "href": "https://api.spotify.com/v1/artists/2jw70GZXlAI8QzWeY2bgRc",
+            "id": "2jw70GZXlAI8QzWeY2bgRc",
+            "name": "Nelly Furtado",
+            "type": "artist",
+            "uri": "spotify:artist:2jw70GZXlAI8QzWeY2bgRc"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 223080,
+        "episode": false,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USUM70603368"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2aI21FnmY7TJVKeMaoQZ0t"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2aI21FnmY7TJVKeMaoQZ0t",
+        "id": "2aI21FnmY7TJVKeMaoQZ0t",
+        "is_local": false,
+        "name": "Say It Right",
+        "popularity": 80,
+        "preview_url": null,
+        "track": true,
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:2aI21FnmY7TJVKeMaoQZ0t"
+      },
+      "video_thumbnail": {
+        "url": null
+      }
+    },
+    {
+      "added_at": "2022-04-12T07:43:55Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/machadoamalia"
+        },
+        "href": "https://api.spotify.com/v1/users/machadoamalia",
+        "id": "machadoamalia",
+        "type": "user",
+        "uri": "spotify:user:machadoamalia"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
+        "album": {
+          "album_group": "album",
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+              },
+              "href": "https://api.spotify.com/v1/artists/26dSoYclwsYLMAKD3tpOr4",
+              "id": "26dSoYclwsYLMAKD3tpOr4",
+              "name": "Britney Spears",
+              "type": "artist",
+              "uri": "spotify:artist:26dSoYclwsYLMAKD3tpOr4"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/5ax3GTsfX5uCUaNgnJsSG5"
+          },
+          "href": "https://api.spotify.com/v1/albums/5ax3GTsfX5uCUaNgnJsSG5",
+          "id": "5ax3GTsfX5uCUaNgnJsSG5",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273e1a4e01cb7a1ecff468bbead",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02e1a4e01cb7a1ecff468bbead",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851e1a4e01cb7a1ecff468bbead",
+              "width": 64
+            }
+          ],
+          "is_playable": true,
+          "name": "Britney (Digital Deluxe Version)",
+          "release_date": "2001-10-31",
+          "release_date_precision": "day",
+          "total_tracks": 15,
+          "type": "album",
+          "uri": "spotify:album:5ax3GTsfX5uCUaNgnJsSG5"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+            },
+            "href": "https://api.spotify.com/v1/artists/26dSoYclwsYLMAKD3tpOr4",
+            "id": "26dSoYclwsYLMAKD3tpOr4",
+            "name": "Britney Spears",
+            "type": "artist",
+            "uri": "spotify:artist:26dSoYclwsYLMAKD3tpOr4"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 203600,
+        "episode": false,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USJI10100421"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6ldwfK0yWgTAlmIfuQkTYN"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6ldwfK0yWgTAlmIfuQkTYN",
+        "id": "6ldwfK0yWgTAlmIfuQkTYN",
+        "is_local": false,
+        "name": "I'm a Slave 4 U",
+        "popularity": 69,
+        "preview_url": "https://p.scdn.co/mp3-preview/411aec589673bde64084922356db7fd5f19cd871?cid=f647b8cb59df49aa85dd3153cb98d08b",
+        "track": true,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6ldwfK0yWgTAlmIfuQkTYN"
+      },
+      "video_thumbnail": {
+        "url": null
+      }
+    },
+    {
+      "added_at": "2022-04-12T07:44:00Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/machadoamalia"
+        },
+        "href": "https://api.spotify.com/v1/users/machadoamalia",
+        "id": "machadoamalia",
+        "type": "user",
+        "uri": "spotify:user:machadoamalia"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
+        "album": {
+          "album_group": "album",
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+              },
+              "href": "https://api.spotify.com/v1/artists/6tbjWDEIzxoDsBA1FuhfPW",
+              "id": "6tbjWDEIzxoDsBA1FuhfPW",
+              "name": "Madonna",
+              "type": "artist",
+              "uri": "spotify:artist:6tbjWDEIzxoDsBA1FuhfPW"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr"
+          },
+          "href": "https://api.spotify.com/v1/albums/1hg0pQJLE9dzfT1kgZtDPr",
+          "id": "1hg0pQJLE9dzfT1kgZtDPr",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273efcbc3f42da96cea7583bb6f",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02efcbc3f42da96cea7583bb6f",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851efcbc3f42da96cea7583bb6f",
+              "width": 64
+            }
+          ],
+          "is_playable": true,
+          "name": "Confessions on a Dance Floor",
+          "release_date": "2005-11-11",
+          "release_date_precision": "day",
+          "total_tracks": 12,
+          "type": "album",
+          "uri": "spotify:album:1hg0pQJLE9dzfT1kgZtDPr"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+            },
+            "href": "https://api.spotify.com/v1/artists/6tbjWDEIzxoDsBA1FuhfPW",
+            "id": "6tbjWDEIzxoDsBA1FuhfPW",
+            "name": "Madonna",
+            "type": "artist",
+            "uri": "spotify:artist:6tbjWDEIzxoDsBA1FuhfPW"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 337733,
+        "episode": false,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USWB10504319"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3850dYVgOFIXJh5U4BFEWH"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3850dYVgOFIXJh5U4BFEWH",
+        "id": "3850dYVgOFIXJh5U4BFEWH",
+        "is_local": false,
+        "name": "Hung Up",
+        "popularity": 76,
+        "preview_url": "https://p.scdn.co/mp3-preview/dffaf6d378f42c2ec6311d17fadc5fc26eb84bf8?cid=f647b8cb59df49aa85dd3153cb98d08b",
+        "track": true,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3850dYVgOFIXJh5U4BFEWH"
+      },
+      "video_thumbnail": {
+        "url": null
+      }
+    },
+    {
+      "added_at": "2022-04-12T07:44:04Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/machadoamalia"
+        },
+        "href": "https://api.spotify.com/v1/users/machadoamalia",
+        "id": "machadoamalia",
+        "type": "user",
+        "uri": "spotify:user:machadoamalia"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
+        "album": {
+          "album_group": "album",
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
+              },
+              "href": "https://api.spotify.com/v1/artists/1Y8cdNmUJH7yBTd9yOvr5i",
+              "id": "1Y8cdNmUJH7yBTd9yOvr5i",
+              "name": "Destiny's Child",
+              "type": "artist",
+              "uri": "spotify:artist:1Y8cdNmUJH7yBTd9yOvr5i"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG"
+          },
+          "href": "https://api.spotify.com/v1/albums/283NWqNsCA9GwVHrJk59CG",
+          "id": "283NWqNsCA9GwVHrJk59CG",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2733718df75b57340c1947747e8",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e023718df75b57340c1947747e8",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d000048513718df75b57340c1947747e8",
+              "width": 64
+            }
+          ],
+          "is_playable": true,
+          "name": "The Writing's On The Wall",
+          "release_date": "1999-07-27",
+          "release_date_precision": "day",
+          "total_tracks": 16,
+          "type": "album",
+          "uri": "spotify:album:283NWqNsCA9GwVHrJk59CG"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
+            },
+            "href": "https://api.spotify.com/v1/artists/1Y8cdNmUJH7yBTd9yOvr5i",
+            "id": "1Y8cdNmUJH7yBTd9yOvr5i",
+            "name": "Destiny's Child",
+            "type": "artist",
+            "uri": "spotify:artist:1Y8cdNmUJH7yBTd9yOvr5i"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 256026,
+        "episode": false,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USSM19900561"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1Oi2zpmL81Q0yScF1zxaC0"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1Oi2zpmL81Q0yScF1zxaC0",
+        "id": "1Oi2zpmL81Q0yScF1zxaC0",
+        "is_local": false,
+        "name": "Bills, Bills, Bills",
+        "popularity": 72,
+        "preview_url": "https://p.scdn.co/mp3-preview/f993b54e7d53b6f54d493749da7908a8ab61914f?cid=f647b8cb59df49aa85dd3153cb98d08b",
+        "track": true,
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:1Oi2zpmL81Q0yScF1zxaC0"
+      },
+      "video_thumbnail": {
+        "url": null
+      }
+    },
+    {
+      "added_at": "2022-04-12T07:44:07Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/machadoamalia"
+        },
+        "href": "https://api.spotify.com/v1/users/machadoamalia",
+        "id": "machadoamalia",
+        "type": "user",
+        "uri": "spotify:user:machadoamalia"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
+        "album": {
+          "album_group": "album",
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+              },
+              "href": "https://api.spotify.com/v1/artists/6tbjWDEIzxoDsBA1FuhfPW",
+              "id": "6tbjWDEIzxoDsBA1FuhfPW",
+              "name": "Madonna",
+              "type": "artist",
+              "uri": "spotify:artist:6tbjWDEIzxoDsBA1FuhfPW"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/7jgBVzMVZuuhaTG5zQ0Vgk"
+          },
+          "href": "https://api.spotify.com/v1/albums/7jgBVzMVZuuhaTG5zQ0Vgk",
+          "id": "7jgBVzMVZuuhaTG5zQ0Vgk",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273c2c06f8ff6b3ee22263b3f2c",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02c2c06f8ff6b3ee22263b3f2c",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851c2c06f8ff6b3ee22263b3f2c",
+              "width": 64
+            }
+          ],
+          "is_playable": true,
+          "name": "Hard Candy",
+          "release_date": "2008-04-19",
+          "release_date_precision": "day",
+          "total_tracks": 15,
+          "type": "album",
+          "uri": "spotify:album:7jgBVzMVZuuhaTG5zQ0Vgk"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+            },
+            "href": "https://api.spotify.com/v1/artists/6tbjWDEIzxoDsBA1FuhfPW",
+            "id": "6tbjWDEIzxoDsBA1FuhfPW",
+            "name": "Madonna",
+            "type": "artist",
+            "uri": "spotify:artist:6tbjWDEIzxoDsBA1FuhfPW"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+            },
+            "href": "https://api.spotify.com/v1/artists/31TPClRtHm23RisEBtV3X7",
+            "id": "31TPClRtHm23RisEBtV3X7",
+            "name": "Justin Timberlake",
+            "type": "artist",
+            "uri": "spotify:artist:31TPClRtHm23RisEBtV3X7"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
+            },
+            "href": "https://api.spotify.com/v1/artists/5Y5TRrQiqgUO4S36tzjIRZ",
+            "id": "5Y5TRrQiqgUO4S36tzjIRZ",
+            "name": "Timbaland",
+            "type": "artist",
+            "uri": "spotify:artist:5Y5TRrQiqgUO4S36tzjIRZ"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 245080,
+        "episode": false,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USWB10800435"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1dDNz8h95Gsu0W4QdxVVln"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1dDNz8h95Gsu0W4QdxVVln",
+        "id": "1dDNz8h95Gsu0W4QdxVVln",
+        "is_local": false,
+        "name": "4 Minutes (feat. Justin Timberlake and Timbaland)",
+        "popularity": 60,
+        "preview_url": "https://p.scdn.co/mp3-preview/f9c7b11110eee9e078923d469130d30d8b2875b4?cid=f647b8cb59df49aa85dd3153cb98d08b",
+        "track": true,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:1dDNz8h95Gsu0W4QdxVVln"
+      },
+      "video_thumbnail": {
+        "url": null
+      }
+    },
+    {
+      "added_at": "2022-04-12T07:44:15Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/machadoamalia"
+        },
+        "href": "https://api.spotify.com/v1/users/machadoamalia",
+        "id": "machadoamalia",
+        "type": "user",
+        "uri": "spotify:user:machadoamalia"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
+        "album": {
+          "album_group": "album",
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+              },
+              "href": "https://api.spotify.com/v1/artists/6vWDO969PvNqNYHIOW5v0m",
+              "id": "6vWDO969PvNqNYHIOW5v0m",
+              "name": "Beyoncé",
+              "type": "artist",
+              "uri": "spotify:artist:6vWDO969PvNqNYHIOW5v0m"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/2WkOVbvgyo0E0G7w2ZsAi2"
+          },
+          "href": "https://api.spotify.com/v1/albums/2WkOVbvgyo0E0G7w2ZsAi2",
+          "id": "2WkOVbvgyo0E0G7w2ZsAi2",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273f61dd5ef8754073b8a0a4aaf",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02f61dd5ef8754073b8a0a4aaf",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851f61dd5ef8754073b8a0a4aaf",
+              "width": 64
+            }
+          ],
+          "is_playable": true,
+          "name": "B'Day Deluxe Edition",
+          "release_date": "2007-04-03",
+          "release_date_precision": "day",
+          "total_tracks": 22,
+          "type": "album",
+          "uri": "spotify:album:2WkOVbvgyo0E0G7w2ZsAi2"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+            },
+            "href": "https://api.spotify.com/v1/artists/6vWDO969PvNqNYHIOW5v0m",
+            "id": "6vWDO969PvNqNYHIOW5v0m",
+            "name": "Beyoncé",
+            "type": "artist",
+            "uri": "spotify:artist:6vWDO969PvNqNYHIOW5v0m"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+            },
+            "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+            "id": "0EmeFodog0BfCgMzAIvKQp",
+            "name": "Shakira",
+            "type": "artist",
+            "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 199840,
+        "episode": false,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USSM10700448"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/76Y07hjDi7fjJnZKsQbEaF"
+        },
+        "href": "https://api.spotify.com/v1/tracks/76Y07hjDi7fjJnZKsQbEaF",
+        "id": "76Y07hjDi7fjJnZKsQbEaF",
+        "is_local": false,
+        "name": "Beautiful Liar",
+        "popularity": 64,
+        "preview_url": "https://p.scdn.co/mp3-preview/1d0c5ea5a5eb2fafe2177f20de8a4973b7aa232e?cid=f647b8cb59df49aa85dd3153cb98d08b",
+        "track": true,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:76Y07hjDi7fjJnZKsQbEaF"
+      },
+      "video_thumbnail": {
+        "url": null
+      }
+    },
+    {
+      "added_at": "2022-04-12T07:44:28Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/machadoamalia"
+        },
+        "href": "https://api.spotify.com/v1/users/machadoamalia",
+        "id": "machadoamalia",
+        "type": "user",
+        "uri": "spotify:user:machadoamalia"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
+        "album": {
+          "album_group": "album",
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn"
+              },
+              "href": "https://api.spotify.com/v1/artists/5T0MSzX9RC5NA6gAI6irSn",
+              "id": "5T0MSzX9RC5NA6gAI6irSn",
+              "name": "Estelle",
+              "type": "artist",
+              "uri": "spotify:artist:5T0MSzX9RC5NA6gAI6irSn"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/5y4Ikuc4sLtNOpanoKKqwo"
+          },
+          "href": "https://api.spotify.com/v1/albums/5y4Ikuc4sLtNOpanoKKqwo",
+          "id": "5y4Ikuc4sLtNOpanoKKqwo",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273b0b30ef77be3523c8018810c",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02b0b30ef77be3523c8018810c",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851b0b30ef77be3523c8018810c",
+              "width": 64
+            }
+          ],
+          "is_playable": true,
+          "name": "Shine",
+          "release_date": "2008-03-28",
+          "release_date_precision": "day",
+          "total_tracks": 12,
+          "type": "album",
+          "uri": "spotify:album:5y4Ikuc4sLtNOpanoKKqwo"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn"
+            },
+            "href": "https://api.spotify.com/v1/artists/5T0MSzX9RC5NA6gAI6irSn",
+            "id": "5T0MSzX9RC5NA6gAI6irSn",
+            "name": "Estelle",
+            "type": "artist",
+            "uri": "spotify:artist:5T0MSzX9RC5NA6gAI6irSn"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+            },
+            "href": "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+            "id": "5K4W6rqBFWDnAN6FQUkS6x",
+            "name": "Kanye West",
+            "type": "artist",
+            "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 284733,
+        "episode": false,
+        "explicit": true,
+        "external_ids": {
+          "isrc": "USAT20706210"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/22UDw8rSfLbUsaAGTXQ4Z8"
+        },
+        "href": "https://api.spotify.com/v1/tracks/22UDw8rSfLbUsaAGTXQ4Z8",
+        "id": "22UDw8rSfLbUsaAGTXQ4Z8",
+        "is_local": false,
+        "name": "American Boy",
+        "popularity": 33,
+        "preview_url": null,
+        "track": true,
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:22UDw8rSfLbUsaAGTXQ4Z8"
+      },
+      "video_thumbnail": {
+        "url": null
+      }
+    },
+    {
+      "added_at": "2022-04-12T07:44:31Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/machadoamalia"
+        },
+        "href": "https://api.spotify.com/v1/users/machadoamalia",
+        "id": "machadoamalia",
+        "type": "user",
+        "uri": "spotify:user:machadoamalia"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
+        "album": {
+          "album_group": "album",
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+              },
+              "href": "https://api.spotify.com/v1/artists/6LqNN22kT3074XbTVUrhzX",
+              "id": "6LqNN22kT3074XbTVUrhzX",
+              "name": "Kesha",
+              "type": "artist",
+              "uri": "spotify:artist:6LqNN22kT3074XbTVUrhzX"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/6fpLLJsDSSAlToEDW2jv4F"
+          },
+          "href": "https://api.spotify.com/v1/albums/6fpLLJsDSSAlToEDW2jv4F",
+          "id": "6fpLLJsDSSAlToEDW2jv4F",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2737a6339d6ddfd579f77559b3c",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e027a6339d6ddfd579f77559b3c",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d000048517a6339d6ddfd579f77559b3c",
+              "width": 64
+            }
+          ],
+          "is_playable": true,
+          "name": "Animal (Expanded Edition)",
+          "release_date": "2010-01-01",
+          "release_date_precision": "day",
+          "total_tracks": 18,
+          "type": "album",
+          "uri": "spotify:album:6fpLLJsDSSAlToEDW2jv4F"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+            },
+            "href": "https://api.spotify.com/v1/artists/6LqNN22kT3074XbTVUrhzX",
+            "id": "6LqNN22kT3074XbTVUrhzX",
+            "name": "Kesha",
+            "type": "artist",
+            "uri": "spotify:artist:6LqNN22kT3074XbTVUrhzX"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 199693,
+        "episode": false,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USRC10900433"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0HPD5WQqrq7wPWR7P7Dw1i"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0HPD5WQqrq7wPWR7P7Dw1i",
+        "id": "0HPD5WQqrq7wPWR7P7Dw1i",
+        "is_local": false,
+        "name": "TiK ToK",
+        "popularity": 81,
+        "preview_url": "https://p.scdn.co/mp3-preview/ea95bec21bd6c4979cc91f5d5528b533d879905c?cid=f647b8cb59df49aa85dd3153cb98d08b",
+        "track": true,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:0HPD5WQqrq7wPWR7P7Dw1i"
+      },
+      "video_thumbnail": {
+        "url": null
+      }
+    },
+    {
+      "added_at": "2022-04-12T07:44:41Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/machadoamalia"
+        },
+        "href": "https://api.spotify.com/v1/users/machadoamalia",
+        "id": "machadoamalia",
+        "type": "user",
+        "uri": "spotify:user:machadoamalia"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
+        "album": {
+          "album_group": "single",
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+              },
+              "href": "https://api.spotify.com/v1/artists/3rWZHrfrsPBxVy692yAIxF",
+              "id": "3rWZHrfrsPBxVy692yAIxF",
+              "name": "WILLOW",
+              "type": "artist",
+              "uri": "spotify:artist:3rWZHrfrsPBxVy692yAIxF"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/2RQeZABxfNPeYpLPglJ56h"
+          },
+          "href": "https://api.spotify.com/v1/albums/2RQeZABxfNPeYpLPglJ56h",
+          "id": "2RQeZABxfNPeYpLPglJ56h",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2734d04251603f4142dced97eac",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e024d04251603f4142dced97eac",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d000048514d04251603f4142dced97eac",
+              "width": 64
+            }
+          ],
+          "is_playable": true,
+          "name": "Whip My Hair",
+          "release_date": "2010-10-26",
+          "release_date_precision": "day",
+          "total_tracks": 1,
+          "type": "album",
+          "uri": "spotify:album:2RQeZABxfNPeYpLPglJ56h"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+            },
+            "href": "https://api.spotify.com/v1/artists/3rWZHrfrsPBxVy692yAIxF",
+            "id": "3rWZHrfrsPBxVy692yAIxF",
+            "name": "WILLOW",
+            "type": "artist",
+            "uri": "spotify:artist:3rWZHrfrsPBxVy692yAIxF"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 195440,
+        "episode": false,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USSM11003892"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4Dio1t8RHzLv1nfPJTSZyP"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4Dio1t8RHzLv1nfPJTSZyP",
+        "id": "4Dio1t8RHzLv1nfPJTSZyP",
+        "is_local": false,
+        "name": "Whip My Hair",
+        "popularity": 62,
+        "preview_url": null,
+        "track": true,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4Dio1t8RHzLv1nfPJTSZyP"
+      },
+      "video_thumbnail": {
+        "url": null
+      }
+    }
+  ]
+}

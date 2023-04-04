@@ -1,0 +1,176 @@
+main {
+  padding: 50px 70px 50px 70px;
+  overflow-y: scroll;
+}
+
+.info-container {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+}
+
+.description {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  gap: 5px;
+}
+
+.description h1 {
+  font-weight: 600;
+  font-size: 6.5vw;
+}
+
+.description h3 {
+  font-weight: 400;
+  font-size: 1.5vw;
+  text-transform: uppercase;
+}
+
+.img-title {
+  width: 100%;
+}
+
+.img-container {
+  width: 250px;
+  height: 250px;
+}
+
+.actions-container {
+  display: flex;
+  gap: 20px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+table {
+  display: table;
+  width: 100%;
+  justify-content: start;
+  border-collapse: separate;
+  border-spacing: 0 20px;
+}
+
+th {
+  text-align: left;
+  font-size: 15px;
+  color: darkgray;
+  font-weight: 200;
+  padding: 10px;
+  border-bottom: 0.2px #6b6b6b solid;
+}
+
+td {
+  text-align: left;
+  padding: 10px;
+}
+
+.song-container:hover {
+  padding: 2px 2px 2px 2px;
+  background-color: #343434;
+}
+
+.song-img {
+  width: 40px;
+  height: 40px;
+}
+
+.song-title {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.song-title-sub {
+  display: flex;
+  flex-direction: column;
+  font-size: 12px;
+  gap: 4px;
+}
+
+.song-title-sub > span {
+  color: darkgray;
+}
+
+.action-button {
+  width: 60px;
+  height: 60px;
+  padding: 8px 8px 8px 8px;
+  background-color: transparent;
+  border: none;
+}
+
+.action-button :hover > svg {
+  fill: gray;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.table-cell {
+  display: table-cell;
+}
+
+.text-white {
+  color: white !important;
+}
+
+.text-gray {
+  color: gray;
+}
+
+.text-14 {
+  font-size: 14px;
+}
+
+.like-button {
+  width: 17px;
+  height: 17px;
+  background-color: transparent;
+  border: none;
+  margin-left: -50px;
+  position: absolute;
+}
+
+.like-button:hover svg, .block svg {
+  fill: #1DB954;
+  stroke: #1DB954;
+  cursor: pointer;
+}
+
+.song-container:hover .like-button {
+  display: block;
+}
+
+.hidden {
+  display: none;
+}
+
+.block {
+  display: block;
+}
+
+.relative {
+  position: relative;
+}
+
+#play {
+  border-radius: 9999px;
+  background-color: #1DB954;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#play-icon {
+  fill: black;
+  width: 30px;
+  height: 30px;
+}
+
+#clock {
+  width: 15px;
+  height: 15px;
+  color: darkgray;
+}
