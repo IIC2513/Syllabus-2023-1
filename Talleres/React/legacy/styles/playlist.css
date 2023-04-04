@@ -1,0 +1,293 @@
+
+/* BASIC */
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    color: white
+}
+
+body {
+    background-color: #191414;
+}
+
+/* UTILITY */
+
+.name {
+    color: #1DB954
+}
+
+body {
+    font-family: Poppins;
+  }
+
+/* NAVBAR */
+header {
+    background: #191414;
+    top: 0;
+    width: 100%;
+    text-align: center;
+    border-bottom: 1px solid #2e2c2c ;
+}
+
+.navbar {
+    padding: 10px 50px;
+    max-width: 100%;
+    max-height: 13vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo-display {
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    gap: 5px
+}
+
+.logo-display:hover {
+    fill: white;
+    color: white;
+}
+
+.logo-image {
+    width: 3vw;
+    height: auto;
+}
+
+.title {
+    font-weight: 600;
+    font-size: 1.7vw;
+}
+
+.navbar-links-container {
+    display: flex;
+    list-style: none;
+    gap: 30px;
+}
+
+.navbar-link {
+    font-size: 1vw;
+    text-decoration: none;
+    cursor: pointer;
+    transition: color 0.5s ease-in;
+}
+
+.navbar-element:hover > .navbar-link  {
+    color: #1DB954
+}
+
+
+/* LANDING PAGE */
+
+main {
+    width: 100%;
+    height: 87.5vh;
+}
+
+.bg-container {
+    position: absolute;
+    width: 100%;
+    height: 87.5vh;
+    background: url('../assets/bg-image.jpeg') no-repeat center center fixed;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    z-index: -2;
+    opacity: 0.25;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.5vw;
+    text-align: justify;
+    gap: 30px;
+}
+
+.content > p {
+    width: 50%;
+}
+
+/* FOOTER */
+.footer {
+    background-color: #191414;
+    border-top: 1px solid #2e2c2c ;
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+    padding: 10px 0px;
+    text-align: center;
+}
+
+/* PLAYLIST */
+.main-container {
+    padding: 50px 70px 50px 70px;
+}
+
+.info-container {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+
+.description {
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    gap: 5px;
+}
+
+.description h1 {
+    font-weight: 600;
+    font-size: 6.5vw;
+}
+
+.description h3 {
+    font-weight: 400;
+    font-size: 1.5vw;
+    text-transform: uppercase;
+}
+
+.img-title {
+    width: 100%;
+}
+
+.img-container {
+    width: 250px;
+    height: 250px;
+}
+
+.actions-container {
+    display: flex;
+    gap: 20px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+table {
+    display: table;
+    width: 100%;
+    justify-content: start;
+    border-collapse: separate;
+    border-spacing: 0 20px;
+}
+
+th {
+    text-align: left;
+    font-size: 15px;
+    color: darkgray;
+    font-weight: 200;
+    padding: 10px;
+    border-bottom: 0.2px #6b6b6b solid;
+}
+
+td {
+    text-align: left;
+    padding: 10px;
+}
+
+.song-container:hover {
+    padding: 2px 2px 2px 2px;
+    background-color: #343434;
+}
+
+.song-img {
+    width: 40px;
+    height: 40px;
+}
+
+.song-title {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.song-title-sub {
+    display: flex;
+    flex-direction: column;
+    font-size: 12px;
+    gap: 4px;
+}
+
+.song-title-sub > span {
+    color: darkgray;
+}
+
+.action-button {
+    width: 60px;
+    height: 60px;
+    padding: 8px 8px 8px 8px;
+    background-color: transparent;
+    border: none;
+}
+
+.action-button :hover > svg {
+    fill: gray;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.table-cell {
+    display: table-cell;
+}
+
+.text-white {
+    color: white !important;
+}
+
+.text-gray {
+    color: gray;
+}
+
+.text-14 {
+    font-size: 14px;
+}
+
+#play {
+    border-radius: 9999px;
+    background-color: #1DB954;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#play-icon {
+    fill: black;
+    width: 30px;
+    height: 30px;
+}
+
+#clock {
+    width: 15px;
+    height: 15px;
+    color: darkgray;
+}
+
+@media screen and (max-width: 850px) {
+
+    .title {
+        font-size: 15px;
+    }
+    .logo-image {
+        width: 27px;
+    }
+
+    .navbar-link {
+        font-size: 9px;
+    }
+
+    .bg-container {
+        height: 100.5vh;
+    }
+
+    .content {
+        font-size: 13px;
+    }
+}
