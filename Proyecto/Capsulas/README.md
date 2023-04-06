@@ -11,4 +11,6 @@
 | ------------- | ------------- | ------------- |
 | Cápsula 2 Parte 1 - HTML y CSS | [video](https://youtu.be/ebGNBb6ZN3U)  | [código](https://github.com/IIC2513/guess-who/pull/1), [tags](https://www.w3schools.com/tags/) |
 | Cápsula 2 Parte 2 - HTML y CSS | [video](https://youtu.be/qzBV24gJJuY)  | [código](https://github.com/IIC2513/guess-who/pull/1), [flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/), [grid](https://css-tricks.com/snippets/css/complete-guide-grid/), [media queries](https://www.w3schools.com/css/css_rwd_mediaqueries.asp) |
-| Cápsula 3 - Setup React y primeros pasos | [video](https://www.youtube.com/watch?v=LN0yLqjr_6s) | [código](https://github.com/IIC2513/guess-who/pull/2),  [React Docs 🚀](https://react.dev/),  [Vite](https://vitejs.dev/guide/), [HMR](https://vitejs.dev/guide/why.html#slow-updates), [SWC](https://swc.rs/)  |
+| Cápsula 3 Parte 1 - Setup React y primeros pasos | [video](https://www.youtube.com/watch?v=LN0yLqjr_6s) | [código](https://github.com/IIC2513/guess-who/pull/2),  [React Docs 🚀](https://react.dev/),  [Vite](https://vitejs.dev/guide/), [HMR](https://vitejs.dev/guide/why.html#slow-updates), [SWC](https://swc.rs/)  |
+| Cápsula 3 Parte 2 - Rutas en React | [video](https://youtu.be/hLiv-BrT7yg) | [código](https://github.com/IIC2513/guess-who/pull/3) |
+
