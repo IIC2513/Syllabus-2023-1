@@ -1,0 +1,26 @@
+{
+  "name": "taller-koa",
+  "version": "1.0.0",
+  "description": "Taller para el ramo de Tecnologías y Aplicaciones Web",
+  "main": "index.js",
+  "author": "Benja Pizarro",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "koa": "^2.14.2",
+    "koa-body": "^6.0.1",
+    "koa-bodyparser": "^4.4.0",
+    "koa-logger": "^3.2.1",
+    "koa-router": "^12.0.0",
+    "path": "^0.12.7",
+    "sequelize": "^6.31.0",
+    "sequelize-cli": "^6.6.0"
+  },
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "yarn nodemon src/index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
