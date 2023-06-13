@@ -31,6 +31,7 @@
 | Cápsula 6 Parte 2 - Modelo ER | [video](https://youtu.be/VivD89_ys3I) | [código](), [migraciones](https://medium.com/@andrewoons/how-to-define-sequelize-associations-using-migrations-de4333bf75a7) |
 | Cápsula 6 Parte 3 - Finders| [video](https://youtu.be/QCgh936jnKs) | [código]() |
 | Cápsula 6 Parte 4 - Validaciones y Restricciones | [video](https://youtu.be/dGcZAZyn4HU) | [código]() |
+| Cápsula 8 Parte 1 - Intro a Autenticación, Autorización y Manejo de Sesión | [video](https://youtu.be/70QJZeIk3jw) | |
 
 
 
