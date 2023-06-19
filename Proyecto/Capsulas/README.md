@@ -34,7 +34,7 @@
 | Cápsula 6 Parte 3 - Finders| [video](https://youtu.be/QCgh936jnKs) | [código]() |
 | Cápsula 6 Parte 4 - Validaciones y Restricciones | [video](https://youtu.be/dGcZAZyn4HU) | [código]() |
 | Cápsula 8 Parte 1 - Intro a Autenticación, Autorización y Manejo de Sesión | [video](https://youtu.be/70QJZeIk3jw) | |
-| Cápsula 8 Parte 2 - JWT para manejo de sesión y permisos (Backend) | [video](https://youtu.be/qBsZU-qve1Y) | [código]() |
+| Cápsula 8 Parte 2 - JWT para manejo de sesión y permisos (Backend) | [video](https://youtu.be/qBsZU-qve1Y) | [código](https://github.com/IIC2513/guess-who-backend/pull/5) |
 | Cápsula 8 Anexo - Bcrypt para hashear contraseñas | [video](https://youtu.be/4uwLm7zlaMM) | [código]() |
 
 
